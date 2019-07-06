@@ -1,10 +1,14 @@
 {
   "categories": [
+    "breakfast",
+    "burger",
     "appetizers",
     "salads",
     "soups",
-    "entrees",
-    "desserts",
-    "sandwiches"
+    "bread",
+    "main_course",
+    "grill",
+    "pasta_and_risotto",
+    "desserts"
   ]
 }
